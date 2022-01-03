@@ -1,0 +1,17 @@
+
+.navbar{
+    display: flex;
+    align-items: center;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+.btn-primary{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
